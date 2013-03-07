@@ -1,0 +1,9 @@
+[user]
+	name = Richard
+	email = ryli721@gmail.com
+[core] 
+    excludesfile = ~/.gitignore_global
+	editor = vim
+[color]
+	status = auto
+	branch = auto
