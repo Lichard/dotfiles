@@ -1,7 +1,7 @@
 [github]
     user = Lichard
 [user]
-	name = Richard Li
+	name = Lichard
 	email = ryli721@gmail.com
 [core] 
     excludesfile = ~/.gitignore_global
